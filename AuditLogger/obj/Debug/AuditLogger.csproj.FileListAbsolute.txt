@@ -1,0 +1,6 @@
+C:\Development\Experiments\AuditLogger\AuditLogger\bin\Debug\AuditLogger.exe.config
+C:\Development\Experiments\AuditLogger\AuditLogger\bin\Debug\AuditLogger.exe
+C:\Development\Experiments\AuditLogger\AuditLogger\bin\Debug\AuditLogger.pdb
+C:\Development\Experiments\AuditLogger\AuditLogger\obj\Debug\AuditLogger.csprojResolveAssemblyReference.cache
+C:\Development\Experiments\AuditLogger\AuditLogger\obj\Debug\AuditLogger.exe
+C:\Development\Experiments\AuditLogger\AuditLogger\obj\Debug\AuditLogger.pdb
